@@ -1,0 +1,17 @@
+This package was debianized by Denis Barbier <barbier@debian.org> on
+Fri Oct 10 00:19:14 CEST 2003
+
+Currently maintained by Luk Claes <luk@debian.org> and 
+                        Felipe Augusto van de Wiel <felipe@cathedrallabs.org>
+
+It was downloaded from
+    http://www.linklint.org/download/linklint-2.3.5.tar.gz
+
+No specific changes were needed.
+
+Upstream Author: James B. Bowlin <jbowlin@linklint.org>
+
+James B. Bowlin released this version under the GNU GPL.
+
+On Debian GNU/Linux systems, the complete text of the GNU General
+Public License may be found in `/usr/share/common-licenses/GPL'.

@@ -1,0 +1,15 @@
+Document: linklint
+Title: Debian linklint Manual
+Author: James B. Bowlin <jbowlin@linklint.org>
+Abstract: Linklint is a full featured Perl program for checking HTML links.
+ It supports both local and remote site checking, cross referenced and
+ fully hyperlinked output reports, the ability to check password
+ protected areas, and many other features.  Furthermore output is very
+ detailed.  This manual describes how to use linklint and read generated
+ reports.
+Section: web
+
+Format: HTML
+Index: /usr/share/doc/linklint/html/index.html
+Files: /usr/share/doc/linklint/html/*.html
+
